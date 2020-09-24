@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Menu</title>
+<link rel="Stylesheet" type"text/css" href="stylesheet.css">
+</head>
+<body>
+	<h1><b>Our Menu</b></h1>
+	
+		<div class="row">
+			<div class="col-lg-4 col-md-5 col-sm-12">
+				<h3 id="chicken"><b>Chicken</b></h3>
+				<section>
+					
+					<p>Chickens (Gallus domesticus) are domestic birds that cannot fly. There are over 150 different breeds of chicken that come in various colours, patterns and sizes. The chicken is believed to have descended from the wild Indian and south-east Asian Red Junglefowl which is biologically classified as the same species.
+					</p>
+				</section>
+				</div>
+
+
+			<div class="col-lg-4 col-md-5 col-sm-12">
+				 <h3 id="beef"><b>Beef</b></h3>
+			   <section>
+			        <p>Beef is the meat of cattle (Bos taurus). It is categorized as red meat — a term used for the meat of mammals, which contains higher amounts of iron than chicken or fish. Usually eaten as roasts, ribs, or steaks, beef is also commonly ground or minced. Patties of ground beef are often used in hamburgers.</p>
+                   </section>
+               
+			 </div>
+
+			<div class="col-lg-4 col-md-12 col-sm-12">
+				<h3 id="sushi"><b>Sushi</b></h3>
+			 <section>
+			    <p>Sushi is a traditional Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, often raw, and vegetables. Styles of sushi and its presentation vary widely, but the one key ingredient is "sushi rice", also referred to as shari, or sumeshi.
+			    </p>
+			</section>
+		    </div>
+		</div>
+
+
+	
+</body>
+</html>
